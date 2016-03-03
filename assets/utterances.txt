@@ -1,0 +1,5 @@
+HoroscopeIntent what is the prediction for {Sign}
+HoroscopeIntent what is the future for {Sign}
+HoroscopeIntent what will the prediction for {Sign} be {Date}
+HoroscopeIntent what will the future for {Sign} be {Date}
+HoroscopeIntent {Sign}
