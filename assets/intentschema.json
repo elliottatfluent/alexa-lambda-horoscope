@@ -1,0 +1,20 @@
+{
+  "intents": [
+    {
+      "intent": "HoroscopeIntent",
+      "slots": [
+        {
+          "name": "Sign",
+          "type": "LIST_OF_SIGNS"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },    
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
